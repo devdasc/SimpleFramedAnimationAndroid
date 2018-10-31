@@ -1,4 +1,4 @@
-package com.example.inika.simpleframedanimation;
+package com.example.devdas.simpleframedanimation;
 
 import org.junit.Test;
 

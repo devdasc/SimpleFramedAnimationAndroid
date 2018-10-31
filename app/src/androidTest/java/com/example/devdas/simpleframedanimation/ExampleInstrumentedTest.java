@@ -1,4 +1,4 @@
-package com.example.inika.simpleframedanimation;
+package com.example.devdas.simpleframedanimation;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

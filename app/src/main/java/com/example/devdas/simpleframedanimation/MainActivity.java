@@ -1,18 +1,14 @@
-package com.example.inika.simpleframedanimation;
+package com.example.devdas.simpleframedanimation;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.graphics.Bitmap;
-import android.graphics.Canvas;
-import android.graphics.Paint;
 import android.graphics.drawable.AnimationDrawable;
 import android.graphics.drawable.BitmapDrawable;
 import android.view.Menu;
 import android.view.View;
-import android.view.animation.Animation;
 import android.widget.Button;
 import android.widget.ImageView;
-import android.widget.TextView;
+
 public class MainActivity extends AppCompatActivity {
 
     AnimationDrawable mframeAnimation = null;
